@@ -175,6 +175,10 @@ sudo docker exec -it CONTAINER_ID bash
 ping 172.18.0.11 -c 2
 ```
 
+## Output
+
+![ping pong](https://raw.githubusercontent.com/Raihan-009/vxlan-multi-host-container-networking/refs/heads/main/ping-pong.png)
+
 ## Monitoring VXLAN Traffic
 
 To monitor VXLAN traffic and troubleshoot connectivity issues:
